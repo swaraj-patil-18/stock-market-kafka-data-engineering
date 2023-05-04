@@ -1,2 +1,2 @@
 # Real-time Stock Market Data Engineering Project
-Project using Apache Kafka, AWS S3, Glue &amp; Athena to simulate real-time stock market data. Kafka producer sends static data to consumer, which stores it in S3 bucket. Glue discovers data schema &amp; Athena queries it. Demonstrates data ingestion, transformation &amp; storage skills in cloud-based environment.
+This project implements a real-time stock market data engineering pipeline using Apache Kafka and AWS services. The project involves setting up a Kafka producer to simulate real-time data and a Kafka consumer to store the data in an S3 bucket using AWS S3. An AWS Glue crawler is used to extract metadata and AWS Athena query editor is used to query the data.
