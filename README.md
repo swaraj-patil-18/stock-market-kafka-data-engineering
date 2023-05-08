@@ -3,3 +3,15 @@ This project implements a real-time stock market data engineering pipeline using
 
 ![Pipeline](https://user-images.githubusercontent.com/114085839/236697496-eedb395a-3124-459c-8315-9679ce785523.jpg)
 
+# Technologies Used
+Apache Kafka
+AWS S3
+AWS Glue
+AWS Athena
+Python
+Jupyter Notebook
+
+# Project Structure
+kafkaProducer.ipynb: Jupyter Notebook containing the Kafka producer code in Python.
+kafkConsumer.ipynb: Jupyter Notebook containing the Kafka consumer code in Python.
+README.md: This README file.
